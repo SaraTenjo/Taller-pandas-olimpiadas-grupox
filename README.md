@@ -1,3 +1,3 @@
 # Taller-pandas-olimpiadas-grupox
 
-intrucciones 
+Intento de conflicto
