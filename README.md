@@ -10,7 +10,7 @@ Este proyecto busca analizar los datos históricos de los Juegos Olimpicos desde
 | Samuel Ramírez | Líder de Reporte |
 | Lina Hoyos | Líder de Datos |
 
-### Los roles fueron rotativos: cada integrante realizó distintas tareas durante el proyecto y participó en el análisis de los datos, la edición del repositorio y la redacción de los resultados.
+### Los roles fueron rotativos: cada integrante realizó distintas tareas durante el proyecto y participó en el análisis de los datos, la edición del repositorio y la redacción de los resultados
 
 ## Objetivos  
 -	Conocer los datos disponibles en la base 
